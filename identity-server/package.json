@@ -38,7 +38,7 @@
     "level": "^8.0.0",
     "ms": "^2.1.3",
     "mssql": "^9.1.1",
-    "pure-uuid": "^1.6.3",
+    "pure-uuid": "^1.6.4",
     "scrabbly": "file:..",
     "typescript": "^5.1.3"
   },
